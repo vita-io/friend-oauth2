@@ -10,9 +10,10 @@
                  [ring/ring-codec "1.0.0"]
                  [clj-http "0.7.7"]
                  [cheshire "5.2.0"]
+                 [prismatic/schema "0.3.3"]
                  [crypto-random "1.1.0"]]
 
-  :plugins [[lein-midje "3.1.2"]
+  :plugins [[lein-midje "3.1.1"]
             [codox "0.6.6"]]
 
   :profiles {:dev
