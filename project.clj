@@ -10,6 +10,7 @@
                  [ring/ring-codec "1.0.0"]
                  [clj-http "1.0.1"]
                  [cheshire "5.4.0"]
+                 [prismatic/schema "0.3.6"]
                  [crypto-random "1.2.0"]]
 
   :plugins [[lein-midje "3.1.3"]
